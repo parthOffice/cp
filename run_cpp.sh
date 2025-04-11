@@ -1,2 +1,2 @@
-g++-14 main.cpp -o main
+g++ main.cpp -o main
 ./main
